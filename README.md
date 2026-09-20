@@ -249,49 +249,11 @@ End
 
 ---
 
-# 🖥️ Project Screenshots
+## 🖥️ Project Screenshots
 
-## 📸 Complete Project Flow
+The following image shows the complete SmartBus project flow from the main menu to ticket cancellation.
 
-The following image shows all major SmartBus outputs arranged in the correct project flow.
-
-![Complete SmartBus Project Flow](SmartBus_Project_Screenshots_One_by_One.png)
-
----
-
-## 1. Main Menu
-
-![Main Menu](main-menu.png)
-
----
-
-## 2. Bus Information
-
-![Bus Information](bus-information.png)
-
----
-
-## 3. Booking Process
-
-![Booking Process](booking-process.png)
-
----
-
-## 4. Fare and Payment
-
-![Fare and Payment](fare-payment.png)
-
----
-
-## 5. E-Ticket
-
-![E-Ticket](e-ticket.png)
-
----
-
-## 6. Cancellation
-
-![Cancellation](cancellation.png)
+![SmartBus Project Screenshot](SmartBus_Project_Screenshot.png)
 
 ---
 
@@ -299,7 +261,7 @@ The following image shows all major SmartBus outputs arranged in the correct pro
 
 ### Programming Language
 
-- **Python**
+- Python
 
 ### Application Type
 
@@ -313,11 +275,12 @@ The following image shows all major SmartBus outputs arranged in the correct pro
 - Loops
 - Conditional statements
 - Exception handling
+- Input validation
 - String methods
 
 ### External Libraries
 
-**None**
+None.
 
 The project uses Python's built-in programming features and does not require external libraries.
 
@@ -330,15 +293,7 @@ SmartBus-Python-Project/
 │
 ├── README.md
 ├── SmartBus.py
-│
-├── SmartBus_Project_Screenshots_One_by_One.png
-│
-├── main-menu.png
-├── bus-information.png
-├── booking-process.png
-├── fare-payment.png
-├── e-ticket.png
-└── cancellation.png
+└── SmartBus_Project_Screenshot.png
 ```
 
 ---

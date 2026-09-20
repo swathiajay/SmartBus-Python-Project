@@ -144,3 +144,39 @@ fare_calculation()
 payment()
 ticket_display()
 cancellation()
+
+## 🖥️ Project Screenshots
+
+### 1. Main Menu
+
+![Main Menu](main-menu.png)
+
+---
+
+### 2. Bus Information
+
+![Bus Information](bus-information.png)
+
+---
+
+### 3. Booking Process
+
+![Booking Process](booking-process.png)
+
+---
+
+### 4. Fare and Payment
+
+![Fare and Payment](fare-payment.png)
+
+---
+
+### 5. E-Ticket
+
+![E-Ticket](e-ticket.png)
+
+---
+
+### 6. Cancellation
+
+![Cancellation](cancellation.png)
